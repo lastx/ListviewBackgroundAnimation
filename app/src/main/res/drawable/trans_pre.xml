@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<transition xmlns:android="http://schemas.android.com/apk/res/android"     android:oneshot="false">
+    <item android:drawable="@drawable/bg_end"/>
+    <item android:drawable="@drawable/bg_start" />
+</transition>
